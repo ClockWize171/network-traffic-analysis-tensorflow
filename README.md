@@ -1,5 +1,5 @@
-Name : <b>Thet Min Htin</b>
-Student ID: <b>40478654</b>
+Name : <b>Thet Min Htin</b><br>
+Student ID: <b>40478654</b><br>
 Description: <b>Honours Project</b>
 
 ## Network Traffics Analysis with Machine Learning and Deep Learning
