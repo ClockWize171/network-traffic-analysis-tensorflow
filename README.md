@@ -10,6 +10,7 @@ In this project, three differents types of network traffic datasets will be anal
 
 ## Used datasets
 - NSL-KDD download link here
+- CIC-IDS2017 download and ref link here
 
 ## Used algorithms 
 - Gaussian Naive Bayes
