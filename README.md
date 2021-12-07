@@ -9,7 +9,7 @@ In this project, three differents types of network traffic datasets will be anal
 3. Android Malware dataset.
 
 ## Used datasets
-- NSL-KDD download [https://www.unb.ca/cic/datasets/nsl.html](https://www.unb.ca/cic/datasets/nsl.html)
+- NSL-KDD dataset. 'https://www.unb.ca/cic/datasets/nsl.html'
 - CIC-IDS2017 download and ()
 - Android Malware dataset ()
 
