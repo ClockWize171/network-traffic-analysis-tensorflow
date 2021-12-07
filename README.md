@@ -6,11 +6,12 @@ Description: <b>Honours Project</b>
 In this project, three differents types of network traffic datasets will be analyzed with both machine learning and deep learning. The three different type of network traffic datasets are:
 1. NSL-KDD dataset
 2. CIC-IDS2017 dataset
-3. Datasets that is captured by BRIM app.
+3. Android Malware dataset.
 
 ## Used datasets
-- NSL-KDD download link here
-- CIC-IDS2017 download and ref link here
+- NSL-KDD download [https://www.unb.ca/cic/datasets/nsl.html](https://www.unb.ca/cic/datasets/nsl.html)
+- CIC-IDS2017 download and ()
+- Android Malware dataset ()
 
 ## Used algorithms 
 - Gaussian Naive Bayes
