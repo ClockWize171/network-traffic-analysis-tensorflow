@@ -19,4 +19,6 @@ Used : [Randomly sampled subset of CICIDS2017](https://github.com/Western-OC2-La
 - Multi-Layer Perceptron Neural Network
 
 ## References
-- link are here
+- Oladimeji, D.S, Network-Intrusion-Detection-Using-Machine-Learning-Techniques, (2017), GitHub repository, https://github.com/dimtics/Network-Intrusion-Detection-Using-Machine-Learning-Techniques
+- Deepthi, H.L, Intrusion-Detection-using-Machine-Learning-on-NSL--KDD-dataset, (2020), GitHub repository, https://github.com/Deepthi10/Intrusion-Detection-using-Machine-Learning-on-NSL--KDD-dataset
+
