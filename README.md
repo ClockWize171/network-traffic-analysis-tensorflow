@@ -10,8 +10,8 @@ In this project, three differents types of network traffic datasets will be anal
 
 ## Used datasets
 - [NSL-KDD dataset](https://www.unb.ca/cic/datasets/nsl.html)
-- Original: [CIC-IDS2017 dataset](https://www.unb.ca/cic/datasets/ids-2017.html)
-- Used : [Randomly sampled subset of CICIDS2017](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/data/CICIDS2017_sample.csv)
+- Original: [CIC-IDS2017 dataset](https://www.unb.ca/cic/datasets/ids-2017.html)<br>
+Used : [Randomly sampled subset of CICIDS2017](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/data/CICIDS2017_sample.csv)
 - [Android Malware dataset](https://www.kaggle.com/xwolf12/network-traffic-android-malware)
 
 ## Used algorithms 
