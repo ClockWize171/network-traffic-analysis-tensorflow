@@ -8,6 +8,16 @@ In this project, three differents types of network traffic datasets will be anal
 2. CIC-IDS2017 dataset
 3. Android Malware dataset.
 
+## Used Python Library
+```
+Pandas version:  1.3.3
+Numpy version:  1.19.5
+Scikit-Learn version:  1.0
+Keras version:  2.6.0
+Matplotlib version:  3.4.3
+Seaborn version:  0.11.2
+```
+
 ## Used datasets
 - [NSL-KDD dataset](https://www.unb.ca/cic/datasets/nsl.html)
 - Original: [CIC-IDS2017 dataset](https://www.unb.ca/cic/datasets/ids-2017.html)<br>
