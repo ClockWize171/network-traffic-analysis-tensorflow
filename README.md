@@ -8,7 +8,7 @@ In this project, three differents types of network traffic datasets will be anal
 2. CIC-IDS2017 dataset
 3. Android Malware dataset.
 
-## Used Python Library
+## Used Python Libraries 
 ```
 Pandas version:  1.3.3
 Numpy version:  1.19.5
